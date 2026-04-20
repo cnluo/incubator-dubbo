@@ -29,7 +29,7 @@
   <properties>
     <skip_maven_deploy>true</skip_maven_deploy>
     <curator.test.version>4.2.0</curator.test.version>
-    <zookeeper.version>3.7.2</zookeeper.version>
+    <zookeeper.version>3.9.5</zookeeper.version>
     <curator5.version>4.2.0</curator5.version>
     <commons.compress.version>1.28.0</commons.compress.version>
     <commons.exec.version>1.6.0</commons.exec.version>
